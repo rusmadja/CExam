@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CExam.cpp">
+    <ClCompile Include="CExam.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
